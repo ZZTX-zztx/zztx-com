@@ -99,3 +99,6 @@ Whatever your tech need, we've got you covered!
 我们甚至开发定制应用！此外，您可以通过我们的网站使用各种Windows工具 - 无需安装任何复杂软件。
 
 无论您有什么科技需求，我们都能满足！
+<head>
+  <link rel="icon" href="./zztx.ico" type="image/x-icon">
+</head>
