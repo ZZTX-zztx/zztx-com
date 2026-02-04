@@ -1,3 +1,8 @@
 {
-  "name": "zztx-com"
+  "name": "zztx-com", // 固定项目名称，Cloudflare 后台会显示这个名字
+  "compatibility_date": "2026-02-04",
+  "assets": {
+    "directory": "/home",
+    "main_page": "index.html"
+  }
 }
