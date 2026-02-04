@@ -1,7 +1,8 @@
 {
-  "name": "zztx-com", // 改为你的Worker名称（和之前一致）
+  "name": "zztx-com", //
   "compatibility_date": "2026-02-04",
   "observability": {
     "enabled": true
   }
 }
+
