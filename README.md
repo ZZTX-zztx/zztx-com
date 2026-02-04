@@ -100,5 +100,5 @@ Whatever your tech need, we've got you covered!
 
 无论您有什么科技需求，我们都能满足！
 <head>
-  <link rel="icon" href="./zztx.ico" type="image/x-icon">
+  <link rel="icon" href="./home/zztx.ico" type="image/x-icon">
 </head>
