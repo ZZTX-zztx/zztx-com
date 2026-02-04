@@ -1,7 +1,7 @@
 {
-  "name": "zztx-com",
+  "name": "zztx-com", // 改为你的Worker名称（和之前一致）
   "compatibility_date": "2026-02-04",
-  "assets": {
-    "directory": "./public"
+  "observability": {
+    "enabled": true
   }
 }
