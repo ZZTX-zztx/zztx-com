@@ -100,7 +100,9 @@ Whatever your tech need, we've got you covered!
 
 无论您有什么科技需求，我们都能满足！
 
-[start/开始](./home)
+<h1>
+  <a href="./home">Start/开始</a>
+</h1>
 <head>
   <link rel="icon" href="./home/zztx.ico" type="image/x-icon">
 </head>
