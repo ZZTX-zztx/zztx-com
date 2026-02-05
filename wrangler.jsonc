@@ -2,6 +2,7 @@
   "name": "zztx-com",
   "compatibility_date": "2026-02-05",
   "assets": {
-    "directory": "./"
+    "directory": "./home"
   }
+
 }
